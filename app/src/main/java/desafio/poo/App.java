@@ -52,6 +52,7 @@ public class App {
         joaoDev.inscreverBootcamp(bootcamp);
         System.out.println("Conteúdo inscrito João: " + joaoDev.getConteudoInscrito());
         joaoDev.progredir();
+        joaoDev.progredir();
         System.out.println("Conteúdo inscrito João: " + joaoDev.getConteudoInscrito());
         System.out.println("Conteúdo Concluido João: " + joaoDev.getConteudoConcluido());
         System.out.println("XP: " + joaoDev.calcularTotlXP());
