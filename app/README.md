@@ -1,6 +1,6 @@
 # Desafio POO DIO
 
-Abstraindo um bootcampusando orientação a objetos java.
+Abstraindo um bootcamp usando orientação a objetos java.
 
 Conhecimentos de OO utilizados:
 
